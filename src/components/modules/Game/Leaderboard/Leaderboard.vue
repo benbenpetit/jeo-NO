@@ -94,10 +94,6 @@
             <img src="/icon/google.svg" alt="" />
             <span>Se connecter avec Google</span>
           </button>
-          <button @click="handleTwitterSignIn">
-            <img src="/icon/twitter.svg" alt="" />
-            <span>Se connecter avec Twitter</span>
-          </button>
         </div>
       </div>
       <ButtonUI imgSrc="/icon/go.svg" class="--no-hover" @click="handleNextPage">
